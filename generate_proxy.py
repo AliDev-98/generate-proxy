@@ -14,4 +14,4 @@ def save_proxies(num_proxies):
             file.write(proxy + "\n")
 
 # Generate 10 proxies and save them in a file named proxies.txt
-save_proxies(1000000)
+save_proxies(10)
